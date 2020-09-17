@@ -1,0 +1,28 @@
+1600104222075	Encapsulate field 'id'
+1600104226487	Encapsulate field 'content'
+1600104236157	Encapsulate field 'date'
+1600104242119	Encapsulate field 'user'
+1600104245760	Encapsulate field 'Post'
+1600104500699	Encapsulate field 'id'
+1600104505388	Encapsulate field 'content'
+1600104514671	Encapsulate field 'date'
+1600104519772	Encapsulate field 'user'
+1600104524938	Encapsulate field 'comments'
+1600104669322	Encapsulate field 'id'
+1600104674011	Encapsulate field 'username'
+1600104678620	Encapsulate field 'profilePictureUrl'
+1600104682674	Encapsulate field 'following'
+1600104686807	Encapsulate field 'password'
+1600104690952	Encapsulate field 'posts'
+1600104696209	Encapsulate field 'comments'
+1600105216726	Delete element
+1600109594370	Delete element
+1600109613052	Delete element
+1600280033457	Encapsulate field 'repo'
+1600280083575	Encapsulate field 'userRepo'
+1600280602829	Encapsulate field 'following'
+1600302135553	Delete element
+1600302401566	Delete element
+1600303370367	Delete element
+1600303392981	Delete element
+1600303913182	Delete element
